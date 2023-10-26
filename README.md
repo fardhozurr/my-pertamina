@@ -1,10 +1,13 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+Outfit atau berpakaian sehari-hari sangat diperhatikan oleh sebagian orang. Apalagi seseorang sudah mulai beranjak remaja sehingga memerhatikan penampilan supaya terlihat lebih menarik terhadap lawan jenis, bahkan seseorang berpenampilan supaya terlihat keren,hedon ataupun terlihat menarik bagi semua orang. Namun dalam suatu kasus seseorang terkadang merasa menjadi tidak percaya diri atas penampilan mereka dan bingung dalam mengenakan outfit , bisa jadi karena terlalu banyak pakaian yang dimiliki maupun tiba-tiba merasa tidak cocok dengan outfit yang mereka pakai. Tidak sedikit bagi sebagian orang menghabiskan waktu yang lama dalam menentukan atau memikirkan pakaian yang ingin dia pakai, bahkan menggonta-ganti pakaian mereka sebelum keluar rumah. Sehingga mereka menghabiskan banyak waktu karena harus mengenakan pakaian satu persatu untuk melihat kesesuaian outfit yang akan mereka kenakan. Hal itu juga menguras tenaga Jadi  saya memberikan solusi untuk permasalahan ini. Saya membuat sebuah aplikasi sehingga pengguna dapat dengan mudah memutuskan outfit yang mereka akan pakai pada suatu waktu.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Saya yakin aplikasi yang saya kembangkan dapat menyelesaikan permasalahan bagi sebagian orang dan menjadi jawaban bagi orang yang membutuhkan. Dalam aplikasi tersebut pengguna dapat menginput outfit yang dia punya dengan file foto sehingga pengguna dapat mengkolaborasikan antara beragam jenis baju dengan beberapa jenis celana,termasuk outfit tambahan seperti sepatu,topi,kacamata, dll. Pengguna juga dapat menemukan berbagai macam ide outfit terkini yang akan terus saya update.Saya juga mengembakan fitur wishlist di dalam aplikasi tersebut sehingga mereka dapat memasukkan pakaian yang ingin merekan miliki ataupun mereka beli. Kemudian saya juga mengembangkan sebuah fitur yang mana pengguna juga dapat membuat jadwal outfit.Fitur ini tentu sangat berguna bagi kalangan mahasiswa-mahasiswi yang masi dalam masa perkuliahan.
+Karena saya mengembangkan aplikasi ini, seseorang tidak lagi harus menghabiskan waktu berlama-lama di depan cermin untuk mencoba outfit yang cocok dikenakan satu persatu. Mereka juga dapat melihat jadwal outfit yang telah mereka buat.
+Oleh karena itu saya menamai aplikasi ini dengan OutfitZ. Outfit berarti apliksi outfit dan huruf Z berarti nama developer yaitu nama belakang saya yaitu Zurrahman.
+
 
 ## 1.3. Branding
 
@@ -25,7 +28,7 @@ o	Mudah
 o	Sederhana
 o	Menyenangkan
 o	Menarik
-o	Warna: ala suasana abu-abu, kesan mewah
+o	Warna: ala suasana abu-abu, kuning, smooth
 o	Inspirasi desain: 
 
 
