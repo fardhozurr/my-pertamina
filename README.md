@@ -8,13 +8,37 @@ bla bla bla
 
 ## 1.3. Branding
 
-bla bla bla
+Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
+•	Merk: Outfit
+•	Tagline: Outfit bebas asal sopan
+•	Campaign: Bagaimana membuat aplikasi yang memberikan ide kepada penggunanya dalam beroutfit dan  menemukan jenis pakaian yang cocok untuk serta mengkolaborasikan beragam jenis outfit yang ingin dia gunakan.
+•	Target user:
+o	Usia 16+ tahun keatas
+o	Seorang yang sangat mementingkanoutfit dan gaya berpakaiannya.
+o	Seorang yang suka bingung dalam menetukan outfit sehari-hari.
+o	Seorang yang ingin mengetahui jenis outfit atau pakaian yang cocok untuk dirinya.
+o	Seorang yang paham akan adab dan ketentuan dalam berpakaian sopan.
+o	Seorang yang suka mengkolaborasikan oufit yang ingin dia gunakan.
+
+•	User experience theme:
+o	Mudah
+o	Sederhana
+o	Menyenangkan
+o	Menarik
+o	Warna: ala suasana abu-abu, kesan mewah
+o	Inspirasi desain: 
+
 
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya ingin bisa | Sehingga  | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Pengguna|menemukan ide outfit|saya menemukan ide dalam beroutfit| ⭐⭐⭐⭐⭐
+Pengguna|menge-test jenis outfit|saya menemukan outfit yang cocok untuk diri saya | ⭐⭐⭐⭐
+Pengguna|mengkolaborasikan outfit|saya bisa menggunakan kolaborasi yang menurut saya bagus dan keren | ⭐⭐⭐⭐
+Pengguna|mengatur jadwal outfit|saya bisa dengan mudah dan teratur dalam beroutfit tanpa kebingunan | ⭐⭐⭐
+Pengguna|membuat wishlist outfit|saya bias tahu outfit apa yang akan saya beli kedepannya | ⭐⭐⭐
+
 
 ## 3. Struktur Data
 
