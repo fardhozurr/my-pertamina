@@ -52,14 +52,58 @@ erDiagram
     RUJAK ||--o{ SAYUR : tersusun
     PEMBELI ||--|{ RUJAK : beli
 ```
+```mermaid
+graph TD
+  subgraph GANTLEBOY USER
+    A[CHARACTER]
+    B[GET OBJECK]
+    C[ATTACK NPC]
+    D[WALKING]
+  end
+
+  subgraph GANTLEBOY DATA BASE
+    E[MOVING CHARACTER]
+    F[GIF OBJECK]
+    G[RENDERING MAP]
+  end
+
+  A --> B
+  B --> E
+  C --> A
+  C --> D
+  D --> B
+  E --> F --> G
+
+```
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+```mermaid
+flowchart TD
+  subgraph cloud
 
+  a(Database: MySQL)-->b(Backend: Java Swing)-->c(Webserver: www.webswing.org/swing)
+  end
+
+  subgraph client
+  id1(Android and IOS app: java.swing)
+  end
+
+  cloud-->client
+
+```
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+saya menggunakan dalam mengembakan game ini dengan
+- Laptop HP 15s du3577tu intel i3 gen11 dengan RAM 8GB DDR4-3200MHz (2x4GB), SSD PCIe® NVMe™ M.2 512 GB, dengan system oprasi Windows 11 Home
+- smartphone redmi note 10 pro
+- chrome
+- youtube
+  
+Disini saya menggunaka framework
+- Eclipse IDE dengan bahasa Java Swing
+
+Library
 
 ## 6. Desain User Experience dan User Interface
 
