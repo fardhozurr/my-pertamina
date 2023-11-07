@@ -63,9 +63,10 @@ bla bla bla
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
 
+Bisa load image 
+[![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+](https://www.figma.com/file/e4rLFalwdJKWkR84mdjzJJ/Onboarding-Screens-for-iOS-(Community)?type=design&node-id=0%3A1&mode=design&t=wGFcPAsWx8fdRBPP-1)
 ## 7. Demonstrasi Video
 
 Link youtube nya
