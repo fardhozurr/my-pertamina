@@ -45,26 +45,20 @@ Pengguna|membuat wishlist outfit|saya bias tahu outfit apa yang akan saya beli k
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
 ```mermaid
 graph TD
-  subgraph GANTLEBOY USER
-    A[CHARACTER]
-    B[GET OBJECK]
-    C[ATTACK NPC]
-    D[WALKING]
+  subgraph OUTFITZ User
+    A[INPUT PIC]
+    B[GET INSP]
+    C[PUT CLOTH]
+    D[MAKE LIST]
   end
 
-  subgraph GANTLEBOY DATA BASE
-    E[MOVING CHARACTER]
-    F[GIF OBJECK]
-    G[RENDERING MAP]
+  subgraph OUTFITZ DATA BASE
+    E[SAFE PIC]
+    F[PAGE ITEMS]
+    
   end
 
   A --> B
@@ -72,7 +66,7 @@ graph TD
   C --> A
   C --> D
   D --> B
-  E --> F --> G
+  E --> F 
 
 ```
 
@@ -95,15 +89,19 @@ flowchart TD
 ## 5. Teknologi, Library, dan Framework
 
 saya menggunakan dalam mengembakan game ini dengan
-- Laptop HP 15s du3577tu intel i3 gen11 dengan RAM 8GB DDR4-3200MHz (2x4GB), SSD PCIe® NVMe™ M.2 512 GB, dengan system oprasi Windows 11 Home
-- smartphone redmi note 10 pro
-- chrome
-- youtube
+
+- Smartphone redmi 9
+- Laptop Lenovo dengan RAM 8GB ,dengan system operasi Windows 11
+- Laptop HP 15s du3577tu intel i3 gen11 dengan RAM 8GB DDR4-3200MHz (2x4GB), SSD PCIe® NVMe™ M.2 512 GB, dengan system operasi Windows 11 Home
+- Chrome
+- Youtube
   
 Disini saya menggunaka framework
 - Eclipse IDE dengan bahasa Java Swing
 
 Library
+-
+-
 
 ## 6. Desain User Experience dan User Interface
 
