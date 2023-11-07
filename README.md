@@ -104,7 +104,7 @@ saya menggunakan dalam mengembakan game ini dengan
 - Chrome
 - Youtube
   
-Disini saya menggunaka framework
+Framework
 - Eclipse IDE dengan bahasa Java Swing
 
 Library
