@@ -45,11 +45,12 @@ Pengguna|membuat wishlist outfit|saya bisa tahu outfit apa yang akan saya beli k
 Pengguna|membeli outfit di toko dalam apk OutfitZ|saya langsung dengan mudah membeli pakaian yang saya inginkan | ⭐⭐⭐
 Pengguna|melakukan pembayaran dengan M-Banking/E-wallet|saya dengan mudah melakukan pembayaran online langsung dari saldoyang dimiliki | ⭐⭐
 Pengguna|membuat karakter AI 3D |saya dapat membuat karakter AI yang mirip dengan saya| ⭐⭐⭐
-Pengguna|membuat karakter AI 3D |saya mencocokkan pakaian kepada karakter AI| ⭐⭐⭐
+Pengguna|mekarakteristikkan karakter AI 3D |saya mencocokkan pakaian kepada karakter AI| ⭐⭐⭐
 Pengguna|bercermin dengan kamera depan|saya tidak perlu lagi ke apk kamera| ⭐
 Pengguna|menentukan jenis outfit seperti apa |saya dapat menemukan ide-ide outfit sesuai selera saya| ⭐⭐⭐
 Pengguna|memasang pengingat jadwal outfit|saya tidak lupa tentang hari penting dengan outfit tertentu| ⭐⭐
 Pengguna|melakukan browsing tentang suatu event |saya mendapatkan ide outfit yang akan dipakai dalam acara itu| ⭐⭐⭐
+Pengguna|melihat bagaimana pakaian dilihati dari jauh-dekat |saya mengetahui tingkat kestabilan pakaian dan warna dari berbagai jarak| ⭐⭐
 
 ## 3. Struktur Data
 
