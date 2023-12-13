@@ -58,10 +58,10 @@ Pengguna|melihat bagaimana pakaian dilihati dari jauh-dekat |saya mengetahui tin
 ```mermaid
 graph TD
   subgraph OUTFITZ User
-    A[INPUT PIC]
-    B[GET INSP]
-    C[PUT CLOTH]
-    D[MAKE LIST]
+    A[ARRAY]
+    B[LINKED LIST]
+    C[TREE]
+    D[GRAPH]
   end
 
   subgraph OUTFITZ DATA BASE
