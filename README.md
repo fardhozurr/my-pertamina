@@ -100,13 +100,12 @@ flowchart TD
 saya menggunakan dalam mengembakan game ini dengan
 
 - Smartphone redmi 9
-- Laptop Lenovo dengan RAM 8GB ,dengan system operasi Windows 11
+- Laptop Lenovo Ideapad 3 dengan RAM 8GB ,dengan system operasi Windows 11
 - Laptop HP 15s du3577tu intel i3 gen11 dengan RAM 8GB DDR4-3200MHz (2x4GB), SSD PCIe® NVMe™ M.2 512 GB, dengan system operasi Windows 11 Home
-- Chrome
-- Youtube
+
   
 Framework
-- Eclipse IDE dengan bahasa Java Swing
+- JavaFX dengan bahasa Java Swing
 
 Library
 -
