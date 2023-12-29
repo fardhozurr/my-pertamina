@@ -119,20 +119,21 @@ Library
 (https://www.figma.com/file/e4rLFalwdJKWkR84mdjzJJ/Onboarding-Screens-for-iOS-(Community)?type=design&node-id=0%3A1&mode=design&t=wGFcPAsWx8fdRBPP-1)
 ## 7. Demonstrasi Video
 
-Link youtube nya
+https://youtu.be/NGIhOAKyWOc?feature=shared
+https://youtu.be/R82CDMvuqIQ?feature=shared
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+https://youtu.be/NGIhOAKyWOc?feature=shared
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+https://youtu.be/NGIhOAKyWOc?feature=shared
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+https://youtu.be/R82CDMvuqIQ?feature=shared
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+https://youtu.be/R82CDMvuqIQ?feature=shared
